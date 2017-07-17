@@ -1,2 +1,0 @@
-# AutoLayoutDemo
-Only for test
